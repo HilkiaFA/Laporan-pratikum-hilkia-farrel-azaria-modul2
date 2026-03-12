@@ -6,7 +6,7 @@
 
 ### 1. [Soal]
 
-#### Modul 2/Soal 1/main.go
+#### soal1.go
 
 ```go
 package main
@@ -45,7 +45,7 @@ Program di atas adalah program pemutar atau pemindah kata yang dimana berguna me
 
 ### 2. [Soal]
 
-#### Modul 2/Soal 2/main.go
+#### soal2.go
 
 ```go
 package main
@@ -83,7 +83,7 @@ Program di atas adalah program mengecek susunan warna cairan pada gelas 1 sampai
 
 ### 3. [Soal]
 
-#### Modul 2/Soal 3/main.go
+#### soal3.go
 
 ```go
 package main
